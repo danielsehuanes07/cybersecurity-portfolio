@@ -22,3 +22,5 @@ unzip breakmyssh.zip
 
 ![Descompresión del archivo ZIP](images/unzip.png)
 
+### Despliegue de la maquina
+
