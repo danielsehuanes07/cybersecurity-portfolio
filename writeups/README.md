@@ -1,6 +1,6 @@
 # Writeups
 
-## Platforms
+## Plataformas
 - [Hack The Box](hackthebox/)
 - [TryHackMe](tryhackme/)
 - [DockerLabs](dockerlabs/)
