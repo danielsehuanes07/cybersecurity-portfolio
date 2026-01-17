@@ -16,4 +16,4 @@ Hi! I’m Daniel. This repository contains my cybersecurity portfolio with machi
 - Create simple automation scripts
 
 ## 📫 Contact
-- Email:
+- Email: danielruiz1014@hotmail.com
