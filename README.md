@@ -1,19 +1,28 @@
-# Cybersecurity Portfolio
+# Portafolio de Ciberseguridad
 
-Hi! I’m Daniel. This repository contains my cybersecurity portfolio with machine writeups, notes and simple scripts.
+Hola, soy Daniel. Este repositorio contiene mi portafolio de ciberseguridad con **writeups de máquinas**, **notas** y **scripts simples**.
 
-## 📁 Repository Structure
+---
+
+## 📁 Estructura del repositorio
+
 - 📌 [Writeups](writeups/)
   - [Hack The Box](writeups/hackthebox/)
   - [TryHackMe](writeups/tryhackme/)
   - [DockerLabs](writeups/dockerlabs/)
-- 📌 [Notes](notes/)
+- 📌 [Notas](notes/)
 - 📌 [Scripts](scripts/)
+- 📌 [Recursos (imágenes)](assets/)
 
-## 🎯 Goals
-- Build practical pentesting skills
-- Improve documentation and methodology
-- Create simple automation scripts
+---
 
-## 📫 Contact
+## 🎯 Objetivos
+- Construir habilidades prácticas de pentesting
+- Mejorar documentación y metodología
+- Crear scripts simples para automatizar tareas repetitivas
+
+---
+
+## 📫 Contacto
+- Email: sehuanesdaniel7777@gmail.com
 - Email: danielruiz1014@hotmail.com
