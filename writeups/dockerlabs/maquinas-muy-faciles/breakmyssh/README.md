@@ -14,9 +14,9 @@ En esta máquina realicé reconocimiento del servicio SSH, obtuve acceso inicial
 
 ### Descomprimir el laboratorio
 
-´´´bash
+ ```bash
 unzip breakmyssh.zip
-´´´
+```
 
 ![Descompresión del archivo ZIP](images/unzip.png)
 
