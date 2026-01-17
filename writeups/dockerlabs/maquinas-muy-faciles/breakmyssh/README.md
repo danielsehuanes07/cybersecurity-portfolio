@@ -16,8 +16,6 @@ En esta máquina realicé reconocimiento del servicio SSH, obtuve acceso inicial
 
 ´´´bash
 unzip breakmyssh.zip
-# o
-tar -xvzf breakmyssh.tar.gz
 ´´´
 
 ![Descompresión del archivo ZIP](images/unzip.png)
