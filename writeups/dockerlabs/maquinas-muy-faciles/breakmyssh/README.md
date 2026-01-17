@@ -14,7 +14,7 @@ En esta máquina realicé reconocimiento del servicio SSH, obtuve acceso inicial
 
 ### Descomprimir el laboratorio
 
-Una vez descargado el archivo .zip de la plataforma, procedemos a descomprimir su contenido 
+Una vez descargado el archivo .zip de la plataforma, procedemos a descomprimir su contenido con el comando:
 
  ```bash
 unzip breakmyssh.zip
