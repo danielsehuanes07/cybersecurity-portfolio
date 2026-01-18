@@ -3,7 +3,7 @@
 **Plataforma:** DockerLabs  
 **Dificultad:** Muy fácil  
 **Objetivo:** Acceso inicial + root  
-**Skills:** Recon, Enumeration, SSH, Privilege Escalation
+**Skills:** Recon, Enumeration, SSH
 
 ---
 
