@@ -8,7 +8,7 @@
 ---
 
 ## 🧭 Resumen (Summary)
-En esta máquina realicé reconocimiento del servicio SSH, obtuve acceso inicial y luego realicé escalada de privilegios hasta root.
+En esta máquina realicé reconocimiento del servicio SSH, obtuve acceso por medio de fuerza bruta (hydra).
 
 ---
 
