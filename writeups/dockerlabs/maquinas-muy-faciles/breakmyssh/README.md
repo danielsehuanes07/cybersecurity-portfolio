@@ -64,3 +64,14 @@ user: root
 password: estrella
 
 ![resultado hydra](images/cuatro.png)
+
+ ## 7) Proof (Root)
+
+Finalmente, nos conectamos por **SSH** utilizando las credenciales encontradas, hacemos un whoami y vemos que ya somos usuario **root**, logrando el control total del sistema.
+
+```bash
+ssh root@172.17.0.2
+whoami
+```
+![entrada al sistema por ssh](images/cinco.png)
+
