@@ -63,4 +63,4 @@ Se encontraron credenciales válidas para SSH:
 user: root
 password: estrella
 
-![resultado de hydra](images/cuatro.png)
+![resultado hydra](images/cuatro.png)
